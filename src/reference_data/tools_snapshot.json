@@ -1,0 +1,222 @@
+[
+  {
+    "name": "BashTool",
+    "source": "tools/BashTool.ts",
+    "type": "core"
+  },
+  {
+    "name": "FileEditTool",
+    "source": "tools/FileEditTool.ts",
+    "type": "core"
+  },
+  {
+    "name": "FileReadTool",
+    "source": "tools/FileReadTool.ts",
+    "type": "core"
+  },
+  {
+    "name": "FileWriteTool",
+    "source": "tools/FileWriteTool.ts",
+    "type": "core"
+  },
+  {
+    "name": "GlobTool",
+    "source": "tools/GlobTool.ts",
+    "type": "core"
+  },
+  {
+    "name": "GrepTool",
+    "source": "tools/GrepTool.ts",
+    "type": "core"
+  },
+  {
+    "name": "AgentTool",
+    "source": "tools/AgentTool.ts",
+    "type": "core"
+  },
+  {
+    "name": "NotebookEditTool",
+    "source": "tools/NotebookEditTool.ts",
+    "type": "core"
+  },
+  {
+    "name": "WebFetchTool",
+    "source": "tools/WebFetchTool.ts",
+    "type": "core"
+  },
+  {
+    "name": "WebSearchTool",
+    "source": "tools/WebSearchTool.ts",
+    "type": "core"
+  },
+  {
+    "name": "TaskTool",
+    "source": "tools/TaskTool.ts",
+    "type": "core"
+  },
+  {
+    "name": "BatchTool",
+    "source": "tools/BatchTool.ts",
+    "type": "core"
+  },
+  {
+    "name": "McpTool_filesystem",
+    "source": "mcp/McpTool_filesystem.ts",
+    "type": "mcp"
+  },
+  {
+    "name": "McpTool_github",
+    "source": "mcp/McpTool_github.ts",
+    "type": "mcp"
+  },
+  {
+    "name": "McpTool_memory",
+    "source": "mcp/McpTool_memory.ts",
+    "type": "mcp"
+  },
+  {
+    "name": "McpTool_brave_search",
+    "source": "mcp/McpTool_brave_search.ts",
+    "type": "mcp"
+  },
+  {
+    "name": "McpTool_fetch",
+    "source": "mcp/McpTool_fetch.ts",
+    "type": "mcp"
+  },
+  {
+    "name": "McpTool_slack",
+    "source": "mcp/McpTool_slack.ts",
+    "type": "mcp"
+  },
+  {
+    "name": "PluginTool_0",
+    "source": "plugins/tool_0.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "PluginTool_1",
+    "source": "plugins/tool_1.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "PluginTool_2",
+    "source": "plugins/tool_2.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "PluginTool_3",
+    "source": "plugins/tool_3.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "PluginTool_4",
+    "source": "plugins/tool_4.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "PluginTool_5",
+    "source": "plugins/tool_5.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "PluginTool_6",
+    "source": "plugins/tool_6.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "PluginTool_7",
+    "source": "plugins/tool_7.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "PluginTool_8",
+    "source": "plugins/tool_8.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "PluginTool_9",
+    "source": "plugins/tool_9.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "PluginTool_10",
+    "source": "plugins/tool_10.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "PluginTool_11",
+    "source": "plugins/tool_11.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "PluginTool_12",
+    "source": "plugins/tool_12.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "PluginTool_13",
+    "source": "plugins/tool_13.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "PluginTool_14",
+    "source": "plugins/tool_14.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "PluginTool_15",
+    "source": "plugins/tool_15.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "PluginTool_16",
+    "source": "plugins/tool_16.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "PluginTool_17",
+    "source": "plugins/tool_17.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "PluginTool_18",
+    "source": "plugins/tool_18.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "PluginTool_19",
+    "source": "plugins/tool_19.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "PluginTool_20",
+    "source": "plugins/tool_20.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "PluginTool_21",
+    "source": "plugins/tool_21.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "PluginTool_22",
+    "source": "plugins/tool_22.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "PluginTool_23",
+    "source": "plugins/tool_23.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "PluginTool_24",
+    "source": "plugins/tool_24.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "PluginTool_25",
+    "source": "plugins/tool_25.ts",
+    "type": "plugin"
+  }
+]

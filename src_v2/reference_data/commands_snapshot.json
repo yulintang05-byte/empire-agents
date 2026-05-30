@@ -1,0 +1,542 @@
+[
+  {
+    "name": "help",
+    "source": "commands/help.ts",
+    "type": "core"
+  },
+  {
+    "name": "commit",
+    "source": "commands/commit.ts",
+    "type": "core"
+  },
+  {
+    "name": "review",
+    "source": "commands/review.ts",
+    "type": "core"
+  },
+  {
+    "name": "branch",
+    "source": "commands/branch.ts",
+    "type": "core"
+  },
+  {
+    "name": "diff",
+    "source": "commands/diff.ts",
+    "type": "core"
+  },
+  {
+    "name": "status",
+    "source": "commands/status.ts",
+    "type": "core"
+  },
+  {
+    "name": "agents",
+    "source": "commands/agents.ts",
+    "type": "core"
+  },
+  {
+    "name": "config",
+    "source": "commands/config.ts",
+    "type": "core"
+  },
+  {
+    "name": "login",
+    "source": "commands/login.ts",
+    "type": "core"
+  },
+  {
+    "name": "logout",
+    "source": "commands/logout.ts",
+    "type": "core"
+  },
+  {
+    "name": "init",
+    "source": "commands/init.ts",
+    "type": "core"
+  },
+  {
+    "name": "version",
+    "source": "commands/version.ts",
+    "type": "core"
+  },
+  {
+    "name": "plugin-a0",
+    "source": "plugins/plugin-a0.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "plugin-a1",
+    "source": "plugins/plugin-a1.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "plugin-a2",
+    "source": "plugins/plugin-a2.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "plugin-a3",
+    "source": "plugins/plugin-a3.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "plugin-a4",
+    "source": "plugins/plugin-a4.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "plugin-a5",
+    "source": "plugins/plugin-a5.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "plugin-a6",
+    "source": "plugins/plugin-a6.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "plugin-a7",
+    "source": "plugins/plugin-a7.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "plugin-a8",
+    "source": "plugins/plugin-a8.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "plugin-a9",
+    "source": "plugins/plugin-a9.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "plugin-b0",
+    "source": "plugins/plugin-b0.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "plugin-b1",
+    "source": "plugins/plugin-b1.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "plugin-b2",
+    "source": "plugins/plugin-b2.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "plugin-b3",
+    "source": "plugins/plugin-b3.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "plugin-b4",
+    "source": "plugins/plugin-b4.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "plugin-b5",
+    "source": "plugins/plugin-b5.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "plugin-b6",
+    "source": "plugins/plugin-b6.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "plugin-b7",
+    "source": "plugins/plugin-b7.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "plugin-b8",
+    "source": "plugins/plugin-b8.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "plugin-b9",
+    "source": "plugins/plugin-b9.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "plugin-c0",
+    "source": "plugins/plugin-c0.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "plugin-c1",
+    "source": "plugins/plugin-c1.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "plugin-c2",
+    "source": "plugins/plugin-c2.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "plugin-c3",
+    "source": "plugins/plugin-c3.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "plugin-c4",
+    "source": "plugins/plugin-c4.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "plugin-c5",
+    "source": "plugins/plugin-c5.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "plugin-c6",
+    "source": "plugins/plugin-c6.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "plugin-c7",
+    "source": "plugins/plugin-c7.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "plugin-c8",
+    "source": "plugins/plugin-c8.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "plugin-c9",
+    "source": "plugins/plugin-c9.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "plugin-d0",
+    "source": "plugins/plugin-d0.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "plugin-d1",
+    "source": "plugins/plugin-d1.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "plugin-d2",
+    "source": "plugins/plugin-d2.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "plugin-d3",
+    "source": "plugins/plugin-d3.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "plugin-d4",
+    "source": "plugins/plugin-d4.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "plugin-d5",
+    "source": "plugins/plugin-d5.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "plugin-d6",
+    "source": "plugins/plugin-d6.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "plugin-d7",
+    "source": "plugins/plugin-d7.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "plugin-d8",
+    "source": "plugins/plugin-d8.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "plugin-d9",
+    "source": "plugins/plugin-d9.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "plugin-e0",
+    "source": "plugins/plugin-e0.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "plugin-e1",
+    "source": "plugins/plugin-e1.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "plugin-e2",
+    "source": "plugins/plugin-e2.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "plugin-e3",
+    "source": "plugins/plugin-e3.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "plugin-e4",
+    "source": "plugins/plugin-e4.ts",
+    "type": "plugin"
+  },
+  {
+    "name": "skill-a0",
+    "source": "skills/skill-a0.ts",
+    "type": "skill"
+  },
+  {
+    "name": "skill-a1",
+    "source": "skills/skill-a1.ts",
+    "type": "skill"
+  },
+  {
+    "name": "skill-a2",
+    "source": "skills/skill-a2.ts",
+    "type": "skill"
+  },
+  {
+    "name": "skill-a3",
+    "source": "skills/skill-a3.ts",
+    "type": "skill"
+  },
+  {
+    "name": "skill-a4",
+    "source": "skills/skill-a4.ts",
+    "type": "skill"
+  },
+  {
+    "name": "skill-a5",
+    "source": "skills/skill-a5.ts",
+    "type": "skill"
+  },
+  {
+    "name": "skill-a6",
+    "source": "skills/skill-a6.ts",
+    "type": "skill"
+  },
+  {
+    "name": "skill-a7",
+    "source": "skills/skill-a7.ts",
+    "type": "skill"
+  },
+  {
+    "name": "skill-a8",
+    "source": "skills/skill-a8.ts",
+    "type": "skill"
+  },
+  {
+    "name": "skill-a9",
+    "source": "skills/skill-a9.ts",
+    "type": "skill"
+  },
+  {
+    "name": "skill-b0",
+    "source": "skills/skill-b0.ts",
+    "type": "skill"
+  },
+  {
+    "name": "skill-b1",
+    "source": "skills/skill-b1.ts",
+    "type": "skill"
+  },
+  {
+    "name": "skill-b2",
+    "source": "skills/skill-b2.ts",
+    "type": "skill"
+  },
+  {
+    "name": "skill-b3",
+    "source": "skills/skill-b3.ts",
+    "type": "skill"
+  },
+  {
+    "name": "skill-b4",
+    "source": "skills/skill-b4.ts",
+    "type": "skill"
+  },
+  {
+    "name": "skill-b5",
+    "source": "skills/skill-b5.ts",
+    "type": "skill"
+  },
+  {
+    "name": "skill-b6",
+    "source": "skills/skill-b6.ts",
+    "type": "skill"
+  },
+  {
+    "name": "skill-b7",
+    "source": "skills/skill-b7.ts",
+    "type": "skill"
+  },
+  {
+    "name": "skill-b8",
+    "source": "skills/skill-b8.ts",
+    "type": "skill"
+  },
+  {
+    "name": "skill-b9",
+    "source": "skills/skill-b9.ts",
+    "type": "skill"
+  },
+  {
+    "name": "skill-c0",
+    "source": "skills/skill-c0.ts",
+    "type": "skill"
+  },
+  {
+    "name": "skill-c1",
+    "source": "skills/skill-c1.ts",
+    "type": "skill"
+  },
+  {
+    "name": "skill-c2",
+    "source": "skills/skill-c2.ts",
+    "type": "skill"
+  },
+  {
+    "name": "skill-c3",
+    "source": "skills/skill-c3.ts",
+    "type": "skill"
+  },
+  {
+    "name": "skill-c4",
+    "source": "skills/skill-c4.ts",
+    "type": "skill"
+  },
+  {
+    "name": "skill-c5",
+    "source": "skills/skill-c5.ts",
+    "type": "skill"
+  },
+  {
+    "name": "skill-c6",
+    "source": "skills/skill-c6.ts",
+    "type": "skill"
+  },
+  {
+    "name": "skill-c7",
+    "source": "skills/skill-c7.ts",
+    "type": "skill"
+  },
+  {
+    "name": "skill-c8",
+    "source": "skills/skill-c8.ts",
+    "type": "skill"
+  },
+  {
+    "name": "skill-c9",
+    "source": "skills/skill-c9.ts",
+    "type": "skill"
+  },
+  {
+    "name": "skill-d0",
+    "source": "skills/skill-d0.ts",
+    "type": "skill"
+  },
+  {
+    "name": "skill-d1",
+    "source": "skills/skill-d1.ts",
+    "type": "skill"
+  },
+  {
+    "name": "skill-d2",
+    "source": "skills/skill-d2.ts",
+    "type": "skill"
+  },
+  {
+    "name": "skill-d3",
+    "source": "skills/skill-d3.ts",
+    "type": "skill"
+  },
+  {
+    "name": "skill-d4",
+    "source": "skills/skill-d4.ts",
+    "type": "skill"
+  },
+  {
+    "name": "skill-d5",
+    "source": "skills/skill-d5.ts",
+    "type": "skill"
+  },
+  {
+    "name": "skill-d6",
+    "source": "skills/skill-d6.ts",
+    "type": "skill"
+  },
+  {
+    "name": "skill-d7",
+    "source": "skills/skill-d7.ts",
+    "type": "skill"
+  },
+  {
+    "name": "skill-d8",
+    "source": "skills/skill-d8.ts",
+    "type": "skill"
+  },
+  {
+    "name": "skill-d9",
+    "source": "skills/skill-d9.ts",
+    "type": "skill"
+  },
+  {
+    "name": "skill-e0",
+    "source": "skills/skill-e0.ts",
+    "type": "skill"
+  },
+  {
+    "name": "skill-e1",
+    "source": "skills/skill-e1.ts",
+    "type": "skill"
+  },
+  {
+    "name": "skill-e2",
+    "source": "skills/skill-e2.ts",
+    "type": "skill"
+  },
+  {
+    "name": "skill-e3",
+    "source": "skills/skill-e3.ts",
+    "type": "skill"
+  },
+  {
+    "name": "skill-e4",
+    "source": "skills/skill-e4.ts",
+    "type": "skill"
+  },
+  {
+    "name": "skill-e5",
+    "source": "skills/skill-e5.ts",
+    "type": "skill"
+  },
+  {
+    "name": "skill-e6",
+    "source": "skills/skill-e6.ts",
+    "type": "skill"
+  },
+  {
+    "name": "skill-e7",
+    "source": "skills/skill-e7.ts",
+    "type": "skill"
+  },
+  {
+    "name": "skill-e8",
+    "source": "skills/skill-e8.ts",
+    "type": "skill"
+  },
+  {
+    "name": "skill-e9",
+    "source": "skills/skill-e9.ts",
+    "type": "skill"
+  },
+  {
+    "name": "skill-f0",
+    "source": "skills/skill-f0.ts",
+    "type": "skill"
+  }
+]
