@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "claw-workers"
+version = "2.0.0"
+description = "Optimized Python port of the claw-code ultra workers (Claude Code rewrite mirror)"
+readme = "CLAW_WORKERS.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "claw-code workers" }]
+keywords = ["claude-code", "porting", "registry", "routing", "optimization"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+]
+dependencies = []
+
+[project.scripts]
+claw-workers = "claw_workers.cli:main"
+
+[tool.setuptools]
+packages = ["claw_workers"]
+
+[tool.setuptools.package-data]
+claw_workers = ["reference_data/*.json"]
